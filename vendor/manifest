@@ -1,0 +1,11 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/josephspurrier/ball",
+			"repository": "https://github.com/josephspurrier/ball",
+			"revision": "b9d1a8eaa512933ea374a7f5721501582871126f",
+			"branch": "HEAD"
+		}
+	]
+}
